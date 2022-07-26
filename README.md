@@ -19,7 +19,7 @@ We tested on the following settings:
  
 ## Getting Stareted
 ### Datasets
-- CIFAR10/100-LT(Long-tail): This dataset is the long-tailed version of CIFAR10/100. We provide the code for converting to long-tail version
+- CIFAR10/100-LT(Long-Tail): This dataset is the long-tailed version of CIFAR10/100. We provide the code for converting to long-tail version
  
 ### Training
 Training on default settings:
